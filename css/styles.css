@@ -25,6 +25,8 @@ h1 {
 }
 
 h2 {
+    position: relative;
+    text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
     color: #22577A;
     font-weight: bolder;
